@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-stdlib",
+    "name": "amoktar/zend-stdlib",
     "description": "SPL extensions, array utilities, error handlers, and more",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -16,7 +16,7 @@
         "forum": "https://discourse.zendframework.com/c/questions/components"
     },
     "require": {
-        "php": "^5.6 || ^7.0"
+        "php": "^5.6 || ^7.0 || ^8.0"
     },
     "require-dev": {
         "phpbench/phpbench": "^0.13",
